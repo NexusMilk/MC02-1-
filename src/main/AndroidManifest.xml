@@ -33,6 +33,9 @@
         <activity
             android:name=".Activity.LoginActivity"
             android:exported="true" />
+        <activity
+            android:name=".Activity.PlannerActivity"
+            android:exported="true"/>
     </application>
 
 </manifest>
